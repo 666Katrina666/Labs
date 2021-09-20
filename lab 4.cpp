@@ -32,7 +32,7 @@ int main()
     cin >> a;
     cout << "give me second number: ";
     cin >> b;
-    cout << "sum = " << (sqrt(a) + sqrt(b)) << ", difference = " << abs(sqrt(a) - sqrt(b)) << ", multiplication = " << (pow(a, 2) * pow(b, 2)) << ", private = " << (pow(a, 2) / pow(b, 2)) << endl;
+    cout << "sum = " << (sqr(a) + sqr(b)) << ", difference = " << abs(sqr(a) - sqr(b)) << ", multiplication = " << (pow(a, 2) * pow(b, 2)) << ", private = " << (pow(a, 2) / pow(b, 2)) << endl;
 
     cout << endl << "№4" << endl << "give me first number: ";
     cin >> a;
