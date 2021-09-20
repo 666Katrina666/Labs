@@ -4,8 +4,7 @@ using namespace std;
 int main()
 {
     cout << "№1" << endl;
-    float a;
-    float b;
+    float a, b;
     cout << "a = ";
     cin >> a;
     cout << "b = ";
