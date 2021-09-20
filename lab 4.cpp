@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-    
     cout << "№1" << endl;
     float a;
     float b;
