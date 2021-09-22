@@ -1,8 +1,11 @@
 ﻿#include <iostream>
+#include <locale.h> // библиотека для подключения русского языка
 using namespace std;
 
 int main()
 {
+    setlocale(LC_ALL, "Russian"); // подключение русского языка
+    
     cout << endl << "№1" << endl;
     int n;
     int m;
@@ -141,13 +144,12 @@ int main()
         cout << "декабря" << endl; 
         break;
     }
-    // в Visual Studio печатает тарабарщину, а в Online C++ Compiler работает, как и задумывалось хз почему
 
     cout << endl << "№2" << endl;
     int N, c;
     cout << "command = ";
     cin >> N;
-    cout << "direction (Cевер = 1, Восток = 2, Юг = 3, Запад = 4) = "; // как принимать строки??
+    cout << "direction (Cевер = 1, Восток = 2, Юг = 3, Запад = 4) = "; // как принимать русские строки? есть код для принятия, но он не работает (прикреплю в конце в /**/)
     cin >> c;
     switch (N) {
     case -1:
@@ -775,3 +777,55 @@ int main()
 
     return 0;
 }
+
+/*
+cout << endl << "№2" << endl;
+    int N, t;
+    char c;
+    cout << "command = ";
+    cin >> N;
+    cout << "direction (Cевер = с, Восток = в, Юг = ю, Запад = з) = ";
+    cin >> c;
+    if (c == 'c') {
+        t = 1;
+    }
+    else if (c == 'в') {
+        t = 2;
+    }
+    else if (c == 'ю') {
+        t = 3;
+    }
+    else if (c == 'з') {
+        t = 4;
+    }
+    switch (N) {
+    case -1:
+        t++;
+        break;
+    case 0:
+        break;
+    case 1:
+        t--;
+        break;
+    }
+    if (t == 5) {
+        t = 1;
+    }
+    if (t == -1) {
+        t = 4;
+    }
+    switch (t) {
+    case 1:
+        cout << "север" << endl;
+        break;
+    case 2:
+        cout << "восток" << endl;
+        break;
+    case 3:
+        cout << "юг" << endl;
+        break;
+    case 4: 
+        cout << "запад" << endl;
+        break;
+    }
+*/
