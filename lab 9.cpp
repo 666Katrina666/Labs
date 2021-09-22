@@ -29,7 +29,7 @@ int main()
     int a[365];
     a[0] = 1;
     for (int i = 1; i < 365; i++) {
-        if (a[i - 1] < 7) {
+        if (a[i - 1] < 6) {
             a[i] = a[i - 1] + 1;
         }
         else {
@@ -47,7 +47,7 @@ int main()
     int a[365];
     a[0] = N;
     for (int i = 1; i < 365; i++) {
-        if (a[i - 1] < 8) {
+        if (a[i - 1] < 7) {
             a[i] = a[i - 1] + 1;
         }
         else {
