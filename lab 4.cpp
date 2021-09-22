@@ -34,7 +34,7 @@ int main()
     cin >> b;
     cout << "sum = " << (sqr(a) + sqr(b)) << ", difference = " << abs(sqr(a) - sqr(b)) << ", multiplication = " << (pow(a, 2) * pow(b, 2)) << ", private = " << (pow(a, 2) / pow(b, 2)) << endl;
 
-    cout << endl << "№4" << endl << "give me first number: ";
+    cout << endl << "№5" << endl << "give me first number: ";
     cin >> a;
     cout << "give me second number: ";
     cin >> b;
