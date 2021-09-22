@@ -1,8 +1,10 @@
 ﻿#include <iostream>
+#include <locale.h> // библитека для подключения русского языка (и не только, но здесь для него)
 using namespace std;
 
 int main()
 {
+    setlocale(LC_ALL, "Russian");// подключение русского языка
     cout << "№1" << endl;
     int A, B;
     cout << "A = ";
