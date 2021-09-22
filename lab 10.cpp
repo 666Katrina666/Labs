@@ -40,8 +40,6 @@ int main()
 
     cout << endl << "№4" << endl;
     cout << "give me a number = ";
-    bool a;
-    int A;
     cin >> A;
     int q[3];
     for (int i = 0; i < 3; i++) {
