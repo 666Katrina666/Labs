@@ -1,10 +1,15 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
+#include <math.h>
+
+#define pi 3.14;
 
 int main()
 {
+    
     cout << "№1" << endl;
-    float a, b;
+    float a;
+    float b;
     cout << "a = ";
     cin >> a;
     cout << "b = ";
@@ -14,11 +19,10 @@ int main()
     cout << "S = " << S << ", P = " << P << endl;
 
     cout << endl << "№2" << endl;
-    float π = 3.14;
     cout << "d =";
     float d;
     cin >> d;
-    float L = π * d;
+    float L = d * pi;
     cout << "L = " << L << endl;
 
     cout << endl << "№3" << endl;
@@ -32,9 +36,9 @@ int main()
     cin >> a;
     cout << "give me second number: ";
     cin >> b;
-    cout << "sum = " << (sqr(a) + sqr(b)) << ", difference = " << abs(sqr(a) - sqr(b)) << ", multiplication = " << (pow(a, 2) * pow(b, 2)) << ", private = " << (pow(a, 2) / pow(b, 2)) << endl;
+    cout << "sum = " << (pow(a, 2) + pow(b,2)) << ", difference = " << abs(pow(a, 2) - pow(b, 2)) << ", multiplication = " << (pow(a, 2) * pow(b, 2)) << ", private = " << (pow(a, 2) / pow(b, 2)) << endl;
 
-    cout << endl << "№5" << endl << "give me first number: ";
+    cout << endl << "№4" << endl << "give me first number: ";
     cin >> a;
     cout << "give me second number: ";
     cin >> b;
