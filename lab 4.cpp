@@ -37,6 +37,7 @@ int main()
     cout << "give me second number: ";
     cin >> b;
     cout << "sum = " << (pow(a, 2) + pow(b,2)) << ", difference = " << abs(pow(a, 2) - pow(b, 2)) << ", multiplication = " << (pow(a, 2) * pow(b, 2)) << ", private = " << (pow(a, 2) / pow(b, 2)) << endl;
+    //sqr не работает использую pow, а sqrt это квадратный корень, поняла
 
     cout << endl << "№4" << endl << "give me first number: ";
     cin >> a;
