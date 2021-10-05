@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-   cout << "№1" << endl;
+    cout << "№1" << endl;
     int N, n, b;
     int c;
     cout << "N = ";
@@ -27,16 +27,13 @@ int main()
     cout << "K = ";
     cin >> K;
     int a[365];
-    a[0] = 1;
-    for (int i = 1; i < 365; i++) {
-        if (a[i - 1] < 6) {
-            a[i] = a[i - 1] + 1;
-        }
-        else {
-            a[i] = 0;
+    for (int i = 0; i < 365; i++) {
+        a[i] = i + 1;
+        while (a[i] > 6) {
+            a[i] = a[i] - 7;
         }
     }
-    cout << a[K] << " day of week" << endl;
+    cout << a[K - 1] << " day of week" << endl;
 
     cout << endl << "№3" << endl;
     int K;
@@ -44,17 +41,15 @@ int main()
     cin >> K;
     cout << "N = ";
     cin >> N;
-    int a[365];
-    a[0] = N;
-    for (int i = 1; i < 365; i++) {
-        if (a[i - 1] < 7) {
-            a[i] = a[i - 1] + 1;
-        }
-        else {
-            a[i] = 1;
+    int q[365];
+    q[0] = N;
+    for (int j = 0; j < 365; j++) {
+        q[j] = j + 1 + N;
+        while (q[j] > 7) {
+            q[j] = q[j] - 7;
         }
     }
-    cout << a[K] << " day of week" << endl;
+    cout << q[K - 1] << " day of week" << endl;
 
     cout << endl << "№4" << endl;
     int A, B, C;
