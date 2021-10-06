@@ -1,17 +1,19 @@
 ﻿#include <iostream>
 using namespace std;
+#include <math.h>
+
+#define pi 3.14;
 
 int main()
 {
     cout << "№1" << endl;
-    float a, π;
+    float a;
     cout << "a = ";
     cin >> a;
-    π = 3.14;
-    cout << "a = " << a / (180 / π) << " radian" << endl;
+    cout << "a = " << a / (180 / pi) << " radian" << endl;
 
     cout << endl << "№2" << endl;
-    cout << "give me corner wihout π, a = ";
+    cout << "give me corner wihout pi, a = ";
     cin >> a;
     cout << "a = " << a * 180 << "◦" << endl;
 
