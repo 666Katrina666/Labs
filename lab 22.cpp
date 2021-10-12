@@ -237,7 +237,6 @@ int main()
             w++;
             d.push_back(sum);
         }
-        //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         for (int j = M - 1; j >= 0; j--) {
             cout << d[j] << " ";
         }
