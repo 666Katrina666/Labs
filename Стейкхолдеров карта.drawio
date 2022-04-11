@@ -1,1 +1,209 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T09:48:58.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.119 YaBrowser/22.3.0.2430 Yowser/2.5 Safari/537.36" version="17.4.2" etag="HlK9_k8vxc8T7lxNgyNT" type="github"><diagram id="m_u9rteATcTUG4jmRk7B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-11T10:32:20.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.119 YaBrowser/22.3.0.2430 Yowser/2.5 Safari/537.36" etag="lxAVAkYmyLHINNHfCD9l" version="17.4.2" type="github">
+  <diagram id="m_u9rteATcTUG4jmRk7B" name="Page-1">
+    <mxGraphModel dx="2076" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BEEptthMynmagLsRVsFJ-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Проект&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E1D5E7;" vertex="1" parent="1">
+          <mxGeometry x="730" y="440" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-3" value="Объекты СМИ&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-4" value="Киберспортивные организации&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="410" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-5" value="&lt;span id=&quot;docs-internal-guid-2a81eaed-7fff-c1bf-e08b-2f107ec05b14&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Правительство&lt;br&gt;1&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-6" value="Игровое сообщество 2" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-8" value="Геймдизайнер&lt;br&gt;5" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="80" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-9" value="Программист&lt;br&gt;5" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="640" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-10" value="Художник&lt;br&gt;5" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1030" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-11" value="IT-специалист&lt;br&gt;5" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="620" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-12" value="Менеджер&lt;br&gt;3" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-14" value="Московский политехнический университет&lt;br&gt;4" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="170" y="820" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-15" value="Площадки размещения приложения&lt;br&gt;4" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="980" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-16" value="Игровые движки&lt;br&gt;4" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D5E8D4;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="930" width="108" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-17" value="Инвесторы&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="790" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-18" value="Различные рекламные агентства&lt;br&gt;1" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="430" y="970" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=60;endSize=33.36;width=98;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#D5E8D4;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-17" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="375" as="sourcePoint" />
+            <mxPoint x="810" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-41" value="Не коммерческий проект,&lt;br&gt;но материальное поощрение&lt;br&gt;мотивирует участников" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=-90;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-19">
+          <mxGeometry x="0.2132" y="-11" relative="1" as="geometry">
+            <mxPoint x="7" y="-72" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=60;endSize=44.94;width=80;fillColor=#D4E1F5;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="440" as="sourcePoint" />
+            <mxPoint x="780" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-42" value="В настоящее время СМИ не имеет такого&lt;br&gt;&amp;nbsp;влияния на аудиторию, которая была в прошлом" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=55;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-20">
+          <mxGeometry x="-0.1405" y="-14" relative="1" as="geometry">
+            <mxPoint x="27" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.073;entryY=0.232;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=48;endSize=68.76;width=82;fillColor=#D5E8D4;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-6" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="700" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-43" value="Многие игроки не обращают внимание&lt;br&gt;на мнение игрового сообщества, маловероятно,&lt;br&gt;что на нас обратят внимание" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=31;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-21">
+          <mxGeometry x="-0.4723" y="-5" relative="1" as="geometry">
+            <mxPoint x="61" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.016;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=46;endSize=38.06;width=76;fillColor=#D4E1F5;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-12" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="740" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-44" value="Мнение профессионала будет оценено,&lt;br&gt;но можно обойтись и без него" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=10;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-22">
+          <mxGeometry x="0.2105" y="7" relative="1" as="geometry">
+            <mxPoint x="-41" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endWidth=58;endSize=49.94;width=80;fillColor=#D5E8D4;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-11" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-45" value="Он напрямую влияет на&lt;br&gt;техническую составляющую игры" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=-10;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-23">
+          <mxGeometry x="-0.1708" y="-8" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.926;exitY=0.238;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.058;entryY=0.748;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=50;endSize=42.54;width=84;fillColor=#D4E1F5;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-14" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-46" value="Помощь куратора помогает проекту,&lt;br&gt;но не влияет на его исполнение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=-30;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-24">
+          <mxGeometry x="-0.2749" y="-19" relative="1" as="geometry">
+            <mxPoint x="4" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.753;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.249;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;width=82;endSize=32.84;endWidth=38;fillColor=#D5E8D4;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-18" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-47" value="Маловероятно, что мы&lt;br&gt;воспользуемся их&lt;br&gt;услугами" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=310;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-25">
+          <mxGeometry x="-0.169" y="-8" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endWidth=36;endSize=40.12;width=82;fillColor=#D4E1F5;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-10" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-48" value="Его навыки напрямую влияют на&lt;br&gt;графическое представление проекта" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=85;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-26">
+          <mxGeometry x="-0.1379" y="-19" relative="1" as="geometry">
+            <mxPoint x="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.778;entryY=0.926;entryDx=0;entryDy=0;endWidth=68;endSize=47.16;width=88;fillColor=#D5E8D4;entryPerimeter=0;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-15" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-49" value="Их согласие, или его отсутствие напрямую&lt;br&gt;повлияют на выход приложения в массы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=60;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-27">
+          <mxGeometry x="-0.1077" y="20" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.323;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.769;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=42;endSize=22.2;width=58;fillColor=#D4E1F5;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-8" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-54" value="Его идеи и навыки напрямую повлияют на проект" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=-40;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-31">
+          <mxGeometry x="-0.2187" y="1" relative="1" as="geometry">
+            <mxPoint x="-21" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.947;entryY=0.254;entryDx=0;entryDy=0;entryPerimeter=0;width=62;endSize=55.84;endWidth=70;fillColor=#D5E8D4;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-5" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-53" value="Наша сфера деятельности не особо&lt;br&gt;интересует правительство" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=-25;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-32">
+          <mxGeometry x="-0.3566" y="1" relative="1" as="geometry">
+            <mxPoint x="-45" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;width=100;endSize=94.44;endWidth=70;fillColor=#D4E1F5;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-4" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-52" value="Маловероятно, что на наш проект&lt;br&gt;обратят влияние эти организации,&lt;br&gt;их мнение не особо важно" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=-5;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-33">
+          <mxGeometry x="-0.3328" y="-5" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.005;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=76;endSize=71.06;width=68;fillColor=#D5E8D4;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-9" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-51" value="Его навыки напрямую влияют на программную&lt;br&gt;составляющую проекта" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=15;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-34">
+          <mxGeometry x="-0.1115" y="-8" relative="1" as="geometry">
+            <mxPoint x="16" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=17;exitX=0.012;exitY=0.26;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.949;entryY=0.759;entryDx=0;entryDy=0;entryPerimeter=0;endWidth=66;endSize=47.02;width=64;fillColor=#D4E1F5;" edge="1" parent="1" source="BEEptthMynmagLsRVsFJ-16" target="BEEptthMynmagLsRVsFJ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="580" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BEEptthMynmagLsRVsFJ-50" value="В зависимости от движка, меняется метод&lt;br&gt;создания проекта, требуются иные навыки" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;rotation=35;" vertex="1" connectable="0" parent="BEEptthMynmagLsRVsFJ-35">
+          <mxGeometry x="-0.3545" y="10" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
